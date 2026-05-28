@@ -1,0 +1,2 @@
+- fix pwm steering values
+- set auto record on throttle
